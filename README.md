@@ -5,7 +5,7 @@ Analista de Suporte Operacional e estudante de **Análise e Desenvolvimento de S
 Gosto de transformar processo manual em pipeline, planilha bagunçada em dado confiável e dado confiável em decisão. Nos meus projetos, documento não só *o que* fiz, mas *por que* tomei cada decisão técnica.
 
 🌐 **Portfólio:** [johnatantech.github.io](https://johnatantech.github.io)
-<!-- Adicione aqui: 💼 LinkedIn: [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario) · 📧 seu-email -->
+💼 LinkedIn: [linkedin.com/in/in/johnatan-flores-67595a221/](https://linkedin.com/in/in/johnatan-flores-67595a221/) 📧 Meu e-mail: johnatan.flores@gmail.com
 
 ---
 
