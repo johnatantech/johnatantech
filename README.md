@@ -64,7 +64,7 @@ Pipeline de ponta a ponta no **Databricks** sobre ~100 mil pedidos reais do mark
 | [**Receitas por ingredientes**](https://github.com/johnatantech/receitas-app) | Informe o que tem em casa e veja receitas ranqueadas por compatibilidade, com tradução PT↔EN | .NET 10, React, TypeScript, xUnit | [Abrir](https://receitas-app-eta.vercel.app) |
 | [**Painel do Brasileirão**](https://github.com/johnatantech/dashboard-esportes) | Classificação, rodadas, artilharia e assistências com dados reais, via proxy serverless | JavaScript, Node.js, Vercel | [Abrir](https://dashboard-brasileirao-painel.vercel.app) |
 | [**WebFlow Automation**](https://github.com/johnatantech/WEBFLOW-AUTOMATION) | RPA com interface gráfica para automatizar processos no navegador | Python, Playwright, Tkinter | — |
-| [**DataCleaner Pro**](https://github.com/johnatantech/DataCleaner) | Limpeza, padronização e validação de planilhas Excel/CSV com relatórios e dashboard | Python, Pandas, Streamlit | — |
+| [**DataCleaner Pro**](https://github.com/johnatantech/DataCleaner) | Valida cadastros em Excel/CSV (CPF, CNPJ alfanumérico, CEP, telefone) e separa válidos e inválidos com o motivo | Python, Pandas, Streamlit | [Abrir](https://datacleaner-johnatan.streamlit.app) ||
 
 ---
 
