@@ -61,6 +61,7 @@ Pipeline de ponta a ponta no **Databricks** sobre ~100 mil pedidos reais do mark
 
 | Projeto | Descrição | Stack | Demo |
 |---|---|---|---|
+| [**Rateio**](https://github.com/johnatantech/rateio) | Divide despesas em grupo, calcula os acertos com o mínimo de transferências e gera o Pix copia e cola de cada um | .NET, Angular, SQL Server/PostgreSQL, Docker | [Abrir](https://rateioweb.vercel.app) |
 | [**Receitas por ingredientes**](https://github.com/johnatantech/receitas-app) | Informe o que tem em casa e veja receitas ranqueadas por compatibilidade, com tradução PT↔EN | .NET 10, React, TypeScript, xUnit | [Abrir](https://receitas-app-eta.vercel.app) |
 | [**Painel do Brasileirão**](https://github.com/johnatantech/dashboard-esportes) | Classificação, rodadas, artilharia e assistências com dados reais, via proxy serverless | JavaScript, Node.js, Vercel | [Abrir](https://dashboard-brasileirao-painel.vercel.app) |
 | [**WebFlow Automation**](https://github.com/johnatantech/WEBFLOW-AUTOMATION) | RPA com painel de controle: execução por etapas, cancelamento, print automático em falhas e credenciais fora do código | Python, Playwright, Tkinter | — |
